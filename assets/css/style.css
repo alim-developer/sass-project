@@ -1937,29 +1937,5 @@ th {
 @media print {
   .hidden-print {
     display: none !important; } }
-#top div {
-  width: 200px;
-  height: 200px;
-  background: #001311;
-  -webkit-border-radius: 50%;
-  -moz-border-radius: 50%;
-  -ms-border-radius: 50%;
-  border-radius: 50%; }
-#top button {
-  width: 100px;
-  height: 30px;
-  background: #00ac98;
-  color: white;
-  font-size: 1em;
-  box-shadow: 0 10px 0 #00796b;
-  border: none;
-  outline: none;
-  cursor: pointer;
-  transition: 0.5s all ease;
-  -webkit-transition: 0.5s all ease; }
-  #top button:active {
-    background: #00796b;
-    margin-top: 10px;
-    box-shadow: none; }
 
 /*# sourceMappingURL=style.css.map */
